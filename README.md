@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @websteam
 - 👀 I’m interested in PHP, Web Development, Design Patterns and TDD
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking forward to collaborate on anything
 - 📫 How to reach me korbanekm@gmail.com
 
 <!---
