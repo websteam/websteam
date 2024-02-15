@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @websteam
 - 👀 I’m interested in PHP, Web Development, Design Patterns and TDD
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Inertia and Vue 3
 - 💞️ I’m looking forward to collaborate on anything
 - 📫 How to reach me korbanekm@gmail.com
 
